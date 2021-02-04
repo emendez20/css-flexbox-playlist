@@ -13,3 +13,27 @@ body{
     margin: 0 auto;
 }
 
+.flex-container{
+    display: flex;
+    background: white;
+    flex-wrap: wrap;
+}
+.box{
+
+    height:100px;
+    flex: 1;
+    flex-flow: ;
+}
+.one{
+    background: coral;
+
+}
+.two{
+    background: brown;
+
+}
+.three{
+    background: greenyellow;
+
+}
+
